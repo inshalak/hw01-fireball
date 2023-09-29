@@ -20,6 +20,8 @@ Get comfortable with using WebGL and its shaders to generate an interesting 3D, 
 
     You should hopefully see the framework code with a 3D cube at the center of the screen!
 
+5. Now to be able to run it with the spotify API, make sure you npm install script-loader. 
+
 
 ## Developing Your Code
 All of the JavaScript code is living inside the `src` directory. The main file that gets executed when you load the page as you may have guessed is `main.js`. Here, you can make any changes you want, import functions from other files, etc. The reason that I highly suggest you build your project with `npm start` is that doing so will start a process that watches for any changes you make to your code. If it detects anything, it'll automagically rebuild your project and then refresh your browser window for you. Wow. That's cool. If you do it the other way, you'll need to run `npm build` and then refresh your page every time you want to test something.
