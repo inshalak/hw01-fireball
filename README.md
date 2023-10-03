@@ -1,5 +1,8 @@
-# [Project 1: Noise](https://github.com/CIS-566-Fall-2022/hw01-fireball-base)
+# [Project 1: FIREBOI](https://github.com/CIS-566-Fall-2022/hw01-fireball-base)
 
+JANKy version of fireboi. I started off by wanting to make Anger from inside out, and then proceeded to wanting to make Wade and realised it was beyond me. And then fell sick and ended up having to think of 
+something I could put together in 1 day. I ended up settling on fireboy and I wanted to preserve that sort of pixel-y microsoft paint look to him,
+hopefully the noise helps to achieve that and his eyes also move with ur mouse which is cool! 
 
 i am out of time and unsure if the deployment works but i will keep updating this readme with details of how i implemented everythng!
 
