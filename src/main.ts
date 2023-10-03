@@ -1,12 +1,8 @@
 import {vec3} from 'gl-matrix';
 import {mat4, vec4, vec2} from 'gl-matrix';
-import {validateAuthentication, loadSpotifyAPIScript, authenticate} from './spotify-api';
-import { embedSpotifyPlaylist } from './spotify-api';
 import * as DAT from 'dat.gui';
 import Icosphere from './geometry/Icosphere';
 import Square from './geometry/Square';
-import Torus from './geometry/Torus';
-import Cylinder from './geometry/Cylinder';
 import OpenGLRenderer from './rendering/gl/OpenGLRenderer';
 import Camera from './Camera';
 import Cube from './geometry/Cube'
